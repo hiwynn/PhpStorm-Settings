@@ -1,0 +1,4 @@
+Gitflow
+Vue.js
+com.fedot.idea.requirejs
+org.jetbrains.plugins.stylus
